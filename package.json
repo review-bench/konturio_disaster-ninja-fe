@@ -82,7 +82,7 @@
     "@nebula.gl/layers": "1.1.0-alpha.5",
     "@paypal/react-paypal-js": "^8.7.0",
     "@reatom/core-v2": "^3.1.4",
-    "@reatom/framework": "^3.4.64",
+    "@reatom/framework": "^3.4.68",
     "@reatom/npm-react": "^3.10.6",
     "@reatom/react-v2": "^3.1.2",
     "@sentry/react": "^8.45.0",
