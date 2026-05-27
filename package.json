@@ -80,7 +80,7 @@
     "@konturio/ui-kit": "^5.5.0",
     "@nebula.gl/edit-modes": "1.1.0-alpha.5",
     "@nebula.gl/layers": "1.1.0-alpha.5",
-    "@paypal/react-paypal-js": "^8.7.0",
+    "@paypal/react-paypal-js": "^9.2.0",
     "@reatom/core-v2": "^3.1.4",
     "@reatom/framework": "^3.4.64",
     "@reatom/npm-react": "^3.10.6",
